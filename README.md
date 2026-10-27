@@ -1,2 +1,4 @@
 # therepo
-my fist repositry 
+my fist repo
+Author - Jatin Joshi
+
